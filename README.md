@@ -1,2 +1,2 @@
-# Demo3a
-This is from the Demo3a
+# Python
+Here are exercises/small projects for python
